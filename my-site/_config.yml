@@ -28,9 +28,10 @@ url: "https://zeynab110.github.io"
 baseurl: "/my-site"
 
 
+
 # Social Media & Repository Links
 github_username: Zeynab110
-codecademy_username: css9074881090 # Update with your Codecademy username
+codecademy_username: css9074881090
 repository_url: https://github.com/Zeynab110/my-site  # Update with your repository URL
 
 # Profile Photo - place image in assets/images/ folder (e.g., profile.jpg, profile.png)
