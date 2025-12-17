@@ -24,8 +24,9 @@ email: your-email@example.com
 description: >- 
   Personal portfolio website showcasing my projects, skills, and experience in web development and programming.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zeynab110.github.io"
+baseurl: "/my-site"
+
 
 # Social Media & Repository Links
 github_username: Zeynab110
