@@ -6,23 +6,18 @@ permalink: /about/
 
 ## Background
 
-I am a dedicated student and aspiring developer with a passion for web development, programming, and creating digital solutions. My journey in technology began with curiosity and has evolved into a commitment to learning and building meaningful projects.
+I don't have any background in programming, but I look forward to having some more knowledge about it. I'm excited to start my journey in technology and learn new skills in web development and programming.
 
 ## Qualifications
 
-- Strong foundation in web development technologies
-- Experience with modern programming languages and frameworks
-- Knowledge of responsive design principles
-- Understanding of version control systems (Git/GitHub)
-- Problem-solving and analytical thinking skills
+The qualities about me are that I like to have new experiences and opportunities to practice. I'm also very passionate about working on interesting projects that challenge me and help me grow.
 
 ## Activities & Experience
 
-Throughout my learning journey, I have:
+The experiences and activities that I do right now include:
 
-- **Web Development Projects**: Developed multiple web applications and portfolios, focusing on clean code and user experience
-- **Programming Practice**: Continuously practicing coding challenges and building projects to improve my skills
-- **Course Work**: Completed various programming and web development courses, including hands-on projects and assignments
-- **Open Source Contribution**: Maintained and contributed to project repositories, showcasing my work publicly
+- **Tennis and Other Sports**: Active participation in tennis and various other sports
+- **Professional Shooting**: I have a background in professional shooting
+- **Event Organisation**: I have experience working in an event organisation company
 
-I'm always excited to take on new challenges and expand my knowledge in the ever-evolving world of technology. Feel free to reach out if you'd like to connect or collaborate on projects!
+I'm always open to new opportunities and excited to learn more about programming and web development!

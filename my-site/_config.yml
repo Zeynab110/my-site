@@ -28,9 +28,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Media & Repository Links
-github_username: your-github-username  # Update with your GitHub username
+github_username: Zeynab110
 codecademy_username: your-codecademy-username  # Update with your Codecademy username
-repository_url: https://github.com/your-username/your-repo-name  # Update with your repository URL
+repository_url: https://github.com/Zeynab110/my-site  # Update with your repository URL
 
 # Profile Photo - place image in assets/images/ folder (e.g., profile.jpg, profile.png)
 profile_photo: /assets/images/profile.jpg
