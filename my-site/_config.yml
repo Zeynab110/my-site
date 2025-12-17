@@ -32,8 +32,8 @@ github_username: your-github-username  # Update with your GitHub username
 codecademy_username: your-codecademy-username  # Update with your Codecademy username
 repository_url: https://github.com/your-username/your-repo-name  # Update with your repository URL
 
-# Profile Photo (optional - place image in assets/images/ and reference here)
-# profile_photo: /assets/images/profile.jpg
+# Profile Photo - place image in assets/images/ folder (e.g., profile.jpg, profile.png)
+profile_photo: /assets/images/profile.jpg
 
 # Build settings
 # Note: Using custom layouts, so no theme is needed
