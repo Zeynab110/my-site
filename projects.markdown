@@ -10,9 +10,7 @@ Here are some of the projects I've worked on. Each project represents a learning
 
 <div class="projects-grid">
     <div class="project-card">
-        <div class="project-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); display: flex; align-items: center; justify-content: center; color: white; font-size: 4rem;">
-            <i class="fas fa-laptop-code"></i>
-        </div>
+        <img src="{{ '/assets/images/breadbroad.png' | relative_url }}" alt="Project 1 - Breadboard Circuit" class="project-image">
         <div class="project-content">
             <h3 class="project-title">Project 1</h3>
             <p class="project-description">
@@ -25,9 +23,7 @@ Here are some of the projects I've worked on. Each project represents a learning
     </div>
 
     <div class="project-card">
-        <div class="project-image" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #ff6b6b 100%); display: flex; align-items: center; justify-content: center; color: white; font-size: 4rem;">
-            <i class="fas fa-code"></i>
-        </div>
+        <img src="{{ '/assets/images/project2.png' | relative_url }}" alt="Project 2 - Hour of Code" class="project-image">
         <div class="project-content">
             <h3 class="project-title">Project 2: Hour of Code</h3>
             <p class="project-description">
