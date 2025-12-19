@@ -12,12 +12,12 @@ Here are some of the projects I've worked on. Each project represents a learning
     <div class="project-card">
         <img src="{{ '/assets/images/breadbroad.png' | relative_url }}" alt="Project 1 - Breadboard Circuit" class="project-image">
         <div class="project-content">
-            <h3 class="project-title">Project 1</h3>
+            <h3 class="project-title">Project 1: How does hardware work?</h3>
             <p class="project-description">
-                This is my first major project. It demonstrates my understanding of web development fundamentals, including HTML, CSS, and JavaScript. The project showcases responsive design principles and clean, maintainable code structure.
+                This is my first major project. It demonstrates my understanding of AND, OR, XOR, NAND logical gates. The project showcases responsive design principles and clean, maintainable hardware.
             </p>
             <p class="project-description">
-                Through this project, I learned valuable skills in front-end development, user interface design, and project organization. It serves as a foundation for my continued growth as a developer.
+                Through this project, I learned valuable skills in hardware development, logical design, and project organization. It serves as a foundation for my continued growth as a developer.
             </p>
         </div>
     </div>
